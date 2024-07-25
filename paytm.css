@@ -1,0 +1,187 @@
+* {
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* navbar css */
+.navbar {
+    margin-top: 2%;
+}
+
+.navbar a {
+    padding: 1%;
+    margin-left: 2%;
+    padding-top: 3%;
+    vertical-align: middle;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    font-size: 17px;
+}
+
+.btn {
+    background-color: #51c1ed;
+    padding: 1%;
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;
+    color: white;
+    font-size: 17px;
+}
+
+.btn:hover {
+    background-color: #0b0b7b;
+}
+
+/* wallet css */
+.wallet {
+    background-color: #f8f6f6;
+    padding: 1%;
+    text-align: center;
+}
+
+/* section 2 */
+.sec2 {
+    display: flex;
+    flex-direction: row;
+}
+
+.sec2one {
+    margin-left: 6%;
+}
+
+.sec2one img {
+    width: 15%;
+}
+
+.sec2one h1 {
+    margin-top: 5%;
+    font-size: 54px;
+}
+
+.sec2one p {
+    margin-top: 5%;
+    font-size: 25px;
+}
+
+.btn2 {
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    padding: 2%;
+    font-weight: bold;
+    margin-top: 6%;
+    font-size: 18px;
+}
+
+.btn2:hover {
+    border: 1px solid black;
+    color: black;
+    background-color: white;
+}
+
+/* section3 css */
+.sec3 {
+    background-color: #35b9ed;
+}
+
+.sec3 h1 {
+    font-weight: bold;
+    color: white;
+    margin-left: 3%;
+    padding-top: 3%;
+    font-size: 37px;
+}
+
+.icons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 3.6%;
+    padding: 4%;
+    padding-bottom: 7%;
+}
+
+.icons div p {
+    color: white;
+    width: 6%;
+    font-size: 19px;
+    font-weight: bold;
+}
+/* section4 css */
+.sec4 {
+    background-color: #2605cc;
+}
+
+.sec4 h1 {
+    font-weight: bold;
+    color: white;
+    margin-left: 3%;
+    padding-top: 3%;
+    font-size: 37px;
+}
+
+.icons1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 3.6%;
+    padding: 4%;
+    padding-bottom: 7%;
+}
+
+.icons1 div p {
+    color: white;
+    width: 6%;
+    font-size: 19px;
+    font-weight: bold;
+}
+.sec5{
+    background-color: #f5f5f5;
+    padding: 6%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.sec5one{
+    width: 45%;
+    background-color: white;
+    padding: 2%;
+    border-radius: 20px;
+}
+.sec5one h1{
+    font-size: 40px;
+    margin-top: 4%;
+    margin-bottom: 6%;
+}
+.sec5one small{
+    font-weight: bold;
+    font-size: 18px;
+}
+.sec5one .car{
+    width: 90%;
+    margin-top: 4%;
+}
+.sec6{
+padding: 4%;
+}
+.sec6card{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.sec6card button{
+    border: none;
+    margin-top: 2%;
+}
+.sec6card p{
+    margin-top: 2%;
+}
+.sec6card div{
+    width: 25%;
+}
+.sec6card div img{
+    
+}
